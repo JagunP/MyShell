@@ -2,9 +2,9 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
-#include <sys/types.h>//is this allowed
-#include <sys/wait.h> //is this allowed
-#include <fcntl.h>//is this allowed
+#include <sys/types.h>
+#include <sys/wait.h> 
+#include <fcntl.h>
 
 //batch mode and redirection
 
